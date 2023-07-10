@@ -1,1 +1,3 @@
-console.log("Hello, world.")
+import { sayHello } from "@utils/index"
+
+sayHello()
