@@ -5,7 +5,5 @@
 ### It uses the following:
 
 - [typescript](https://www.npmjs.com/package/typescript) - JavaScript, but better.
-- [nodemon](https://www.npmjs.com/package/nodemon) - Automatically restarts when there are changes.
-- [ts-node](https://www.npmjs.com/package/ts-node) - Runs TypeScript code directly.
-- [tsconfig-paths](https://www.npmjs.com/package/tsconfig-paths) - Reads TypeScript paths.
+- [tsx](https://www.npmjs.com/package/tsx) - Enhances Node for run TypeScript files.
 - [tsc-alias](https://www.npmjs.com/package/tsc-alias) - Replaces TypeScript absolute paths with relative JavaScript paths after building.
